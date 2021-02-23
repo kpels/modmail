@@ -44,7 +44,7 @@
 </div>
 
 
-## What is Soporte Serland?
+## What is Modmail ES?
 
 Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.
 
